@@ -1,0 +1,4 @@
+BUCKET:newcomer.technology
+PATH:/Users/alannewc/Documents
+PATH:/Users/alannewc/Desktop/Cloud
+LASTUPDATETIME:1524152582
