@@ -1,4 +1,4 @@
-# Project Title
+# S3 BASH Back Up
 
 A simple BASH script to backup specified directories to AWS S3.
 
@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-AWS CLI with authorization to programaticaly access AWS services.
+AWS CLI with an IAM user that has authorization to programaticaly access AWS services.
 
 ```
 The command <aws s3 ls> should return a list of s3 buckets with no errors.  If no buckets exist then the response will be null.
@@ -50,15 +50,8 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 * **Alan Newcomer** - *Initial work* - [alangixxer](https://github.com/alangixxer)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
-
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
 
