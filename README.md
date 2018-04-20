@@ -44,7 +44,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Versioning
 
-1.0 
+0.1 
 
 ## Authors
 
